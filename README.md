@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/prashant_prog" target="blank"><img src="https://img.shields.io/twitter/follow/prashant_prog?logo=twitter&style=for-the-badge" alt="prashant_prog" /></a> </p>
 
-- 🌱 I’m currently learning **JS and React**
-l
 - 📫 How to reach me **pstxshh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
