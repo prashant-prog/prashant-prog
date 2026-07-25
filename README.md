@@ -31,25 +31,25 @@ Building scalable backend applications with Node.js, Express.js, FastAPI, and Mo
 ### Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,cpp,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,js,cpp,mysql" alt="Python, JavaScript, C++, MySQL" />
 </p>
 
 ### Backend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Node.js, Express.js, MongoDB" />
 </p>
 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" alt="React, HTML, CSS, Tailwind" />
 </p>
 
 ### Developer Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,bash,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,bash,vscode,postman" alt="Git, GitHub, Linux, Bash, VSCode, Postman" />
 </p>
 
 ---
@@ -78,15 +78,8 @@ Building scalable backend applications with Node.js, Express.js, FastAPI, and Mo
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=prashant-prog&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
-  />
-
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashant-prog&layout=compact&theme=github_dark&hide_border=true"
-  />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=prashant-prog&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashant-prog&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -94,7 +87,7 @@ Building scalable backend applications with Node.js, Express.js, FastAPI, and Mo
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=prashant-prog&theme=github-dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=prashant-prog&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -103,19 +96,19 @@ Building scalable backend applications with Node.js, Express.js, FastAPI, and Mo
 
 <p align="left">
   <a href="https://www.linkedin.com/in/pstxsh" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
 
   <a href="https://x.com/pstxsh" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" />
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
   </a>
 
   <a href="https://pstxsh.vercel.app" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vercel" />
+    <img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" />
   </a>
 
   <a href="mailto:pstxshh@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
   </a>
 </p>
 
