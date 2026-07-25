@@ -89,7 +89,11 @@ Building scalable backend applications with Node.js, Express.js, FastAPI, and Mo
 ---
 
 ## 🔥 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=prashant-prog&theme=dark&hide_border=true&border_radius=5.3)](https://git.io/streak-stats)
+<div style="display: flex; justify-content: center;">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=prashant-prog&theme=transparent&border_radius=25" alt="GitHub Streak" />
+  </a>
+</div>
 
 ---
 
