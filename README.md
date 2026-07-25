@@ -79,10 +79,13 @@ Building scalable backend applications with Node.js, Express.js, FastAPI, and Mo
 
 <p align="center">
   <a href="https://github.com/prashant-prog?tab=repositories">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=prashant-prog&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&cache_seconds=1800" alt="GitHub Stats" />
+    <img src="https://github-stats-extended.vercel.app/api?username=prashant-prog&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Prashant's GitHub stats" />
   </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/prashant-prog?tab=repositories">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashant-prog&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800" alt="Top Languages" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=prashant-prog&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
   </a>
 </p>
 
