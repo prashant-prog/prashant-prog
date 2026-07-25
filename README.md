@@ -1,39 +1,131 @@
-<h1 align="center">Hi 👋, I'm Prashant</h1>
-<h3 align="center">Learning Full Stack Development</h3>
+<h1 align="center">Hi 👋, I'm Prashant Sharma</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prashant-prog&label=Profile%20views&color=0e75b6&style=flat" alt="prashant-prog" /> </p>
+<h3 align="center">
+Backend Developer • BCA (AI & Data Science) Student • Linux Enthusiast
+</h3>
 
-<p align="left"> <a href="https://twitter.com/prashant_prog" target="blank"><img src="https://img.shields.io/twitter/follow/prashant_prog?logo=twitter&style=for-the-badge" alt="prashant_prog" /></a> </p>
+<p align="center">
+Building scalable backend applications with Node.js, Express.js, FastAPI, and MongoDB while strengthening my problem-solving skills through DSA and exploring Linux systems.
+</p>
 
-- 📫 How to reach me **pstxshh@gmail.com**
+<p align="center">
+  <a href="https://github.com/prashant-prog">
+    <img src="https://komarev.com/ghpvc/?username=prashant-prog&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+</p>
 
-<h3 align="left">Connect with me:</h3>
+---
+
+## 🚀 About Me
+
+- 🎓 BCA (AI & Data Science) Student at Poornima University
+- 💻 Passionate about Backend Development and Software Engineering
+- 🌱 Currently learning Advanced Backend Development, System Design, and Data Structures & Algorithms
+- 🐧 Linux enthusiast and daily Fedora user
+- ⚡ Interested in designing scalable APIs, backend systems, and writing clean, maintainable code
+
+---
+
+## 🛠 Tech Stack
+
+### Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,cpp,mysql" />
+</p>
+
+### Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+</p>
+
+### Developer Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,bash,vscode,postman" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 📝 Full Stack Text Editor
+
+- Built using **React, Tailwind CSS, Node.js, Express.js, and MongoDB**
+- Developed RESTful APIs supporting CRUD operations
+- Implemented a modular backend architecture
+- Integrated MongoDB for persistent document storage
+- Built reusable React components for a maintainable frontend
+
+---
+
+### ⚡ FastAPI + MongoDB REST API
+
+- Developed scalable REST APIs using **FastAPI** and **MongoDB**
+- Implemented CRUD operations with Pydantic validation
+- Designed a modular backend structure
+- Followed REST API best practices and clean project organization
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=prashant-prog&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
+  />
+
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashant-prog&layout=compact&theme=github_dark&hide_border=true"
+  />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=prashant-prog&theme=github-dark&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://twitter.com/pstxsh" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
-  <a href="https://linkedin.com/in/pstxsh" target="_blank">
+  <a href="https://www.linkedin.com/in/pstxsh" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://instagram.com/prashant_prog" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" />
+
+  <a href="https://x.com/pstxsh" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+
+  <a href="https://pstxsh.vercel.app" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vercel" />
+  </a>
+
+  <a href="mailto:pstxshh@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
 
+- 🌐 Portfolio: **https://pstxsh.vercel.app**
+- 💼 LinkedIn: **https://www.linkedin.com/in/pstxsh**
+- 🐙 GitHub: **https://github.com/prashant-prog**
+- 📧 Email: **pstxshh@gmail.com**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,c,cpp,css,gcp,git,html,js,linux,mysql,nginx,nodejs,py,react,tailwind,ts" />
-  </a>
-</p>
-
-
-## 📊 GitHub Stats
+---
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=prashant-prog&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=prashant-prog&layout=compact&theme=radical" height="180" />
+  <i>"First, solve the problem. Then, write the code."</i>
 </p>
-
